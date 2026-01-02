@@ -1,6 +1,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/P4pal2004/sentiment-analysis-lstm-ulmfit-bert/blob/main/sentiment_Analysis_LSTM_ULMFIT_BERT.ipynb)
+(https://colab.research.google.com/github/P4pal2004/sentiment-analysis-lstm-ulmfit-bert/blob/main/sentiment_Analysis_LSTM_ULMFiT_BERT.ipynb)
 
 
 
@@ -88,6 +88,7 @@ The goal is to analyze how transfer learning and transformer architectures impro
 
 ## 👨‍💻 Author
 Mahendra Pal
+
 
 
 
